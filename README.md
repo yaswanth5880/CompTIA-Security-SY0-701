@@ -59,12 +59,4 @@ Security+ knowledge can be used as a foundation for entry-level cybersecurity ro
 | Cloud Security — Junior           | Medium      |
 | Threat Monitoring Analyst         | Medium–High |
 
-## My Main Career Path
 
-**Security+ → SOC Analyst L1 → Security Analyst / Incident Response → Cloud Security / Security Engineering**
-
-Security+ is the foundation. I also plan to build practical skills through hands-on labs, projects, SIEM/EDR practice, networking, Linux, Windows, and AWS security.
-
-## Goal
-
-Build strong cybersecurity fundamentals and use hands-on practice to prepare for an entry-level **SOC / Cybersecurity / Cloud Security** career.
